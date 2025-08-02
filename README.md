@@ -6,7 +6,7 @@ This is a menu-driven Python bill management system using the pickle module to s
 <h1>Bill Management System</h1>
 This is a menu-driven Python bill management system using the pickle module to store data persistently in a binary file (bill.dat). Here's a clear summary of the code and its working:
 
-<h2>🧾 Purpose:<h2>
+<h2>🧾 Purpose:</h2>
 <p>To manage supermarket bills with features like:</p>
 <ul>
          <li>Adding bill entries</li>
