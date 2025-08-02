@@ -1,12 +1,7 @@
 # SCHOOL
 <div>
 <h4>This is my first repository which contains my first project from my school which has: <h4>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
     <title>Bill Management System Summary</title>
-    <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -26,17 +21,15 @@
             padding: 10px;
             display: inline-block;
         }
-    </style>
-</head>
-<body>
-    <h1>Bill Management System - Summary</h1>
 
-    <h2>📁 File Used</h2>
+<h1>Bill Management System - Summary</h1>
+
+<h2>📁 File Used</h2>
     <ul>
         <li><span class="code">bill.dat</span> - Binary file to store bill data using <span class="code">pickle</span></li>
     </ul>
 
-    <h2>🔧 Main Features</h2>
+<h2>🔧 Main Features</h2>
     <ul>
         <li><strong>Insert Data (<span class="code">data()</span>)</strong>:
             <ul>
@@ -67,7 +60,7 @@
         </li>
     </ul>
 
-    <h2>🔁 Menu Loop</h2>
+<h2>🔁 Menu Loop</h2>
     <p>The program continuously shows a menu until Exit (0) is selected:</p>
     <pre class="code">
 [1] Insert Data in Bill
@@ -78,11 +71,11 @@
 [0] Exit
     </pre>
 
-    <h2>🧠 Data Format</h2>
+<h2>🧠 Data Format</h2>
     <p>Each bill is stored as a Python list:</p>
     <pre class="code">[BillNo, Name, Address, Mobile, [[Item1, Qty, Rate], [Item2, Qty, Rate], ...]]</pre>
 
-    <h2>✅ Advantages</h2>
+<h2>✅ Advantages</h2>
     <ul>
         <li>Simple and menu-driven interface</li>
         <li>Persistent data using binary file</li>
@@ -90,6 +83,5 @@
         <li>Readable bill format output</li>
     </ul>
 
-</body>
-</html>
+
 
