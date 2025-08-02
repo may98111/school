@@ -66,6 +66,35 @@ This is a menu-driven Python bill management system using the pickle module to s
     <p>Each bill is stored as a Python list:</p>
     <pre class="code">[BillNo, Name, Address, Mobile, [[Item1, Qty, Rate], [Item2, Qty, Rate], ...]]</pre>
 
+<h2>📎 Notes</h2>
+    <ul>
+        <li>Each bill is stored as a list containing recipient details and a list of items.</li>
+        <li>Each item is stored as a list containing item name, quantity, and rate.</li>
+        <li>UI is entirely terminal-based with formatted text output.</li>
+    </ul>
+
+    <h2>✅ Sample Output Format</h2>
+    <pre>
+    |                           >SUPER MART<                           |
+    |------------------------PHONE:01125268494-------------------------|
+    |                              >BILL<                              |
+    |==================================================================|
+        ---->BILL NO : 001
+        ---->NAME    : John Doe
+        ---->ADDRESS : New Delhi
+        ---->MOBILE  : 9876543210
+        ---->DATE    : 02/08/2025 (15:34:22)
+    |__________________________________________________________________|
+       S.NO     ITEMS       QTY/KG/L   RATE     VALUE
+         1      Soap            2        30       60
+         2      Milk            1        50       50
+    --------------------------------------------------------------------
+             TOTAL ITEMS: 2                     TOTAL: ₹110
+    ____________________________________________________________________
+          THANKS FOR SHOPPING WITH SUPER MART
+    ********************************************************************
+    </pre>
+
 <h2>✅ Advantages</h2>
     <ul>
         <li>Simple and menu-driven interface</li>
