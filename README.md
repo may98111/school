@@ -1,8 +1,20 @@
-# SCHOOL
+# SCHOOL PROJECT
 <div>
-<h4>This is my first repository which contains my first project from my school which has: <h4>
+<h4>This is my first repository which contains my first project from my school<h4>
+This is a menu-driven Python bill management system using the pickle module to store data persistently in a binary file (bill.dat). Here's a clear summary of the code and its working:
 
 <h1>Bill Management System</h1>
+This is a menu-driven Python bill management system using the pickle module to store data persistently in a binary file (bill.dat). Here's a clear summary of the code and its working:
+
+<h2>🧾 Purpose:<h2>
+<p>To manage supermarket bills with features like:</p>
+<ul>
+         <li>Adding bill entries</li>
+         <li>Viewing bills</li>
+         <li>Searching bills</li>
+         <li>Updating recipient details</li>
+         <li>Deleting bills or specific items</li>
+</ul>
 
 <h2>📁 File Used</h2>
     <ul>
