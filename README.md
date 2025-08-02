@@ -2,25 +2,6 @@
 <div>
 <h4>This is my first repository which contains my first project from my school which has: <h4>
 <title>Bill Management System Summary</title>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            margin: 20px;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .code {
-            font-family: monospace;
-            background-color: #eee;
-            padding: 10px;
-            display: inline-block;
-        }
 
 <h1>Bill Management System - Summary</h1>
 
