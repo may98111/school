@@ -73,7 +73,7 @@ This is a menu-driven Python bill management system using the pickle module to s
         <li>UI is entirely terminal-based with formatted text output.</li>
     </ul>
 
-    <h2>✅ Sample Output Format</h2>
+<h2>✅ Sample Output Format</h2>
     <pre>
     |                           >SUPER MART<                           |
     |------------------------PHONE:01125268494-------------------------|
