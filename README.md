@@ -1,7 +1,6 @@
 # SCHOOL PROJECT
 <div>
 <h4>This is my first repository which contains my first project from my school<h4>
-This is a menu-driven Python bill management system using the pickle module to store data persistently in a binary file (bill.dat). Here's a clear summary of the code and its working:
 
 <h1>Bill Management System</h1>
 This is a menu-driven Python bill management system using the pickle module to store data persistently in a binary file (bill.dat). Here's a clear summary of the code and its working:
@@ -22,7 +21,7 @@ This is a menu-driven Python bill management system using the pickle module to s
     </ul>
 
 <h2>🔧 Main Features</h2>
-    <ul>
+    <ol>
         <li><strong>Insert Data (<span class="code">data()</span>)</strong>:
             <ul>
                 <li>Adds bill number, recipient details, and product list</li>
@@ -50,7 +49,7 @@ This is a menu-driven Python bill management system using the pickle module to s
                 <li>Delete entire bill or just specific item(s) from it</li>
             </ul>
         </li>
-    </ul>
+    </ol>
 
 <h2>🔁 Menu Loop</h2>
     <p>The program continuously shows a menu until Exit (0) is selected:</p>
