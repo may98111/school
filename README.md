@@ -1,7 +1,7 @@
 # SCHOOL
 <div>
 <h4>This is my first repository which contains my first project from my school which has: <h4>
-    <title>Bill Management System Summary</title>
+<title>Bill Management System Summary</title>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
