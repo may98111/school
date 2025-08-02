@@ -1,9 +1,8 @@
 # SCHOOL
 <div>
 <h4>This is my first repository which contains my first project from my school which has: <h4>
-<title>Bill Management System Summary</title>
 
-<h1>Bill Management System - Summary</h1>
+<h1>Bill Management System</h1>
 
 <h2>📁 File Used</h2>
     <ul>
